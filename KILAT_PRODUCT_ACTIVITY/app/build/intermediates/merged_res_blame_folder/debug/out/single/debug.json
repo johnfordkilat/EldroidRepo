@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "C:\\Users\\jfkta\\AndroidStudioProjects\\KILAT_PRODUCT_ACTIVITY\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\jfkta\\AndroidStudioProjects\\KILAT_PRODUCT_ACTIVITY\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\jfkta\\AndroidStudioProjects\\KILAT_PRODUCT_ACTIVITY\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\jfkta\\AndroidStudioProjects\\KILAT_PRODUCT_ACTIVITY\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\jfkta\\AndroidStudioProjects\\KILAT_PRODUCT_ACTIVITY\\app\\build\\intermediates\\merged_res\\debug\\drawable_product.png.flat",
+        "source": "C:\\Users\\jfkta\\AndroidStudioProjects\\KILAT_PRODUCT_ACTIVITY\\app\\src\\main\\res\\drawable\\product.png"
+    },
+    {
+        "merged": "C:\\Users\\jfkta\\AndroidStudioProjects\\KILAT_PRODUCT_ACTIVITY\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\jfkta\\AndroidStudioProjects\\KILAT_PRODUCT_ACTIVITY\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\jfkta\\AndroidStudioProjects\\KILAT_PRODUCT_ACTIVITY\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\jfkta\\AndroidStudioProjects\\KILAT_PRODUCT_ACTIVITY\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\jfkta\\AndroidStudioProjects\\KILAT_PRODUCT_ACTIVITY\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\jfkta\\AndroidStudioProjects\\KILAT_PRODUCT_ACTIVITY\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\jfkta\\AndroidStudioProjects\\KILAT_PRODUCT_ACTIVITY\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\jfkta\\AndroidStudioProjects\\KILAT_PRODUCT_ACTIVITY\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\jfkta\\AndroidStudioProjects\\KILAT_PRODUCT_ACTIVITY\\app\\build\\intermediates\\merged_res\\debug\\drawable_addproduct.jpg.flat",
+        "source": "C:\\Users\\jfkta\\AndroidStudioProjects\\KILAT_PRODUCT_ACTIVITY\\app\\src\\main\\res\\drawable\\addproduct.jpg"
+    },
+    {
+        "merged": "C:\\Users\\jfkta\\AndroidStudioProjects\\KILAT_PRODUCT_ACTIVITY\\app\\build\\intermediates\\merged_res\\debug\\drawable_shape.xml.flat",
+        "source": "C:\\Users\\jfkta\\AndroidStudioProjects\\KILAT_PRODUCT_ACTIVITY\\app\\src\\main\\res\\drawable\\shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\jfkta\\AndroidStudioProjects\\KILAT_PRODUCT_ACTIVITY\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\jfkta\\AndroidStudioProjects\\KILAT_PRODUCT_ACTIVITY\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\jfkta\\AndroidStudioProjects\\KILAT_PRODUCT_ACTIVITY\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_add_product.xml.flat",
+        "source": "C:\\Users\\jfkta\\AndroidStudioProjects\\KILAT_PRODUCT_ACTIVITY\\app\\src\\main\\res\\layout\\activity_add_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\jfkta\\AndroidStudioProjects\\KILAT_PRODUCT_ACTIVITY\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_view_all_products.xml.flat",
+        "source": "C:\\Users\\jfkta\\AndroidStudioProjects\\KILAT_PRODUCT_ACTIVITY\\app\\src\\main\\res\\layout\\activity_view_all_products.xml"
+    },
+    {
+        "merged": "C:\\Users\\jfkta\\AndroidStudioProjects\\KILAT_PRODUCT_ACTIVITY\\app\\build\\intermediates\\merged_res\\debug\\drawable_update.jpg.flat",
+        "source": "C:\\Users\\jfkta\\AndroidStudioProjects\\KILAT_PRODUCT_ACTIVITY\\app\\src\\main\\res\\drawable\\update.jpg"
+    },
+    {
+        "merged": "C:\\Users\\jfkta\\AndroidStudioProjects\\KILAT_PRODUCT_ACTIVITY\\app\\build\\intermediates\\merged_res\\debug\\drawable_delete.jpg.flat",
+        "source": "C:\\Users\\jfkta\\AndroidStudioProjects\\KILAT_PRODUCT_ACTIVITY\\app\\src\\main\\res\\drawable\\delete.jpg"
+    },
+    {
+        "merged": "C:\\Users\\jfkta\\AndroidStudioProjects\\KILAT_PRODUCT_ACTIVITY\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\jfkta\\AndroidStudioProjects\\KILAT_PRODUCT_ACTIVITY\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\jfkta\\AndroidStudioProjects\\KILAT_PRODUCT_ACTIVITY\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_update_product.xml.flat",
+        "source": "C:\\Users\\jfkta\\AndroidStudioProjects\\KILAT_PRODUCT_ACTIVITY\\app\\src\\main\\res\\layout\\activity_update_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\jfkta\\AndroidStudioProjects\\KILAT_PRODUCT_ACTIVITY\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\jfkta\\AndroidStudioProjects\\KILAT_PRODUCT_ACTIVITY\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\jfkta\\AndroidStudioProjects\\KILAT_PRODUCT_ACTIVITY\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\jfkta\\AndroidStudioProjects\\KILAT_PRODUCT_ACTIVITY\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\jfkta\\AndroidStudioProjects\\KILAT_PRODUCT_ACTIVITY\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\jfkta\\AndroidStudioProjects\\KILAT_PRODUCT_ACTIVITY\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\jfkta\\AndroidStudioProjects\\KILAT_PRODUCT_ACTIVITY\\app\\build\\intermediates\\merged_res\\debug\\drawable_back.jpg.flat",
+        "source": "C:\\Users\\jfkta\\AndroidStudioProjects\\KILAT_PRODUCT_ACTIVITY\\app\\src\\main\\res\\drawable\\back.jpg"
+    },
+    {
+        "merged": "C:\\Users\\jfkta\\AndroidStudioProjects\\KILAT_PRODUCT_ACTIVITY\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\jfkta\\AndroidStudioProjects\\KILAT_PRODUCT_ACTIVITY\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\jfkta\\AndroidStudioProjects\\KILAT_PRODUCT_ACTIVITY\\app\\build\\intermediates\\merged_res\\debug\\drawable_viewall.jpg.flat",
+        "source": "C:\\Users\\jfkta\\AndroidStudioProjects\\KILAT_PRODUCT_ACTIVITY\\app\\src\\main\\res\\drawable\\viewall.jpg"
+    },
+    {
+        "merged": "C:\\Users\\jfkta\\AndroidStudioProjects\\KILAT_PRODUCT_ACTIVITY\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\jfkta\\AndroidStudioProjects\\KILAT_PRODUCT_ACTIVITY\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\jfkta\\AndroidStudioProjects\\KILAT_PRODUCT_ACTIVITY\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_product_details.xml.flat",
+        "source": "C:\\Users\\jfkta\\AndroidStudioProjects\\KILAT_PRODUCT_ACTIVITY\\app\\src\\main\\res\\layout\\activity_product_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\jfkta\\AndroidStudioProjects\\KILAT_PRODUCT_ACTIVITY\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_delete_product.xml.flat",
+        "source": "C:\\Users\\jfkta\\AndroidStudioProjects\\KILAT_PRODUCT_ACTIVITY\\app\\src\\main\\res\\layout\\activity_delete_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\jfkta\\AndroidStudioProjects\\KILAT_PRODUCT_ACTIVITY\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\jfkta\\AndroidStudioProjects\\KILAT_PRODUCT_ACTIVITY\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\jfkta\\AndroidStudioProjects\\KILAT_PRODUCT_ACTIVITY\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\jfkta\\AndroidStudioProjects\\KILAT_PRODUCT_ACTIVITY\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\jfkta\\AndroidStudioProjects\\KILAT_PRODUCT_ACTIVITY\\app\\build\\intermediates\\merged_res\\debug\\drawable_details.jpg.flat",
+        "source": "C:\\Users\\jfkta\\AndroidStudioProjects\\KILAT_PRODUCT_ACTIVITY\\app\\src\\main\\res\\drawable\\details.jpg"
+    }
+]
